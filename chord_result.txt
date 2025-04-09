@@ -1,0 +1,14 @@
+Test accuracy: 0.2250
+Total number of unique chords: 80
+
+Prediction results (sample):
+  Sample 1: True: A:maj        | Predicted: F:maj        | ✗
+  Sample 2: True: G:maj        | Predicted: D:maj        | ✗
+  Sample 3: True: B:maj        | Predicted: B:maj        | ✓
+  Sample 4: True: D:min7       | Predicted: C:maj        | ✗
+  Sample 5: True: G:7          | Predicted: D:maj        | ✗
+  Sample 6: True: Ab:7         | Predicted: G:maj        | ✗
+  Sample 7: True: G:maj        | Predicted: G:maj        | ✓
+  Sample 8: True: Bb:maj       | Predicted: G:maj        | ✗
+  Sample 9: True: D:maj        | Predicted: Ab:maj       | ✗
+  Sample 10: True: C:maj        | Predicted: C:maj        | ✓
