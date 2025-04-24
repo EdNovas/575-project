@@ -9,7 +9,5 @@ https://github.com/EdNovas/575-project/blob/5a2add48ccaf45f99f722194e58815a5f530
 ## Arthur
 
 Daming Wang
-wdm1732418365@gmail.com
 
 Haolin Liu
-haolinliu@uvic.ca
